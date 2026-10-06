@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme{
+  /* font family */
+  --font-roboto:  "Roboto", sans-serif;
+  --font-DMSans : "DM Sans", sans-serif;
+
+  /* color */
+  --color-ct-green:#27ae60;
+  /* bankground image */
+    --background-image-hero: url('./assets/background.png');
+}
